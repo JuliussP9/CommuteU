@@ -88,7 +88,7 @@ cd commuteu
 npm install
 
 # Set up environment variables
-cp .env.example .env.local
+create 2 files: .env.example and .env.local
 # Fill in your API keys in .env.local
 
 # Run the development server
