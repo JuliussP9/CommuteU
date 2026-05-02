@@ -121,10 +121,10 @@ GO_TRANSIT_API_KEY=
 
 | Name | Role |
 |---|---|
-| [Julius](https://github.com/JuliussP9) | Backend |
-| [Hussain](https://github.com/Hussainabbas-web/) | Backend |
-| [Aiven]() | Frontend |
-| [Jun]() | Frontend |
+| [Julius](https://github.com/JuliussP9) |
+| [Hussain](https://github.com/Hussainabbas-web/) | 
+| [Aiven]() | 
+| [Jun](https://github.com/k20136664-rgb/) |
 
 ---
 
