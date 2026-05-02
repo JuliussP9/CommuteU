@@ -80,8 +80,8 @@ commuteu/
 
 #install git (git-scm.com) and node.js(https://nodejs.org/en/download)
 
-# Clone the repo
-git clone https://github.com/YOUR-USERNAME/commuteu.git
+# open the folder in vscode and Clone the repo
+git clone https://github.com/JuliussP9/commuteu.git
 cd commuteu
 
 # Install dependencies
