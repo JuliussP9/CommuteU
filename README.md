@@ -76,6 +76,10 @@ commuteu/
 ### Installation
 
 ```bash
+#create a folder where u want to store the files
+
+#install git (git-scm.com) and node.js(https://nodejs.org/en/download)
+
 # Clone the repo
 git clone https://github.com/YOUR-USERNAME/commuteu.git
 cd commuteu
