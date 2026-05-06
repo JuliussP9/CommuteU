@@ -21,7 +21,7 @@ const gapItems = [
     name: 'RAC Fitness Centre',
     detail: 'Open until 9 PM · Not busy',
     distance: '6 min walk',
-    bg: 'rgba(74,222,128,0.1)',
+    bg: 'rgba(74,222,128,0.1S)',
   },
   {
     icon: '📣',
