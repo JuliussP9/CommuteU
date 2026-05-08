@@ -7,6 +7,7 @@ const navLinks = [
   { href: '/dashboard', label: 'Dashboard' },
   { href: '/schedule', label: 'Schedule' },
   { href: '/wellness', label: 'Wellness' },
+  { href: '/map', label: 'Map' },  
   { href: '/profile', label: 'Profile' },
 ]
 
@@ -63,4 +64,7 @@ export default function NavBar() {
       </div>
     </nav>
   )
+
+
+
 }
